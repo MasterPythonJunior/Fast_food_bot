@@ -36,8 +36,6 @@ pyinstaller==5.0.1
 pyinstaller-hooks-contrib==2022.4
 pyowm==3.3.0
 PySocks==1.7.1
-pyTelegramBotAPI==4.4.0
-python-magic-bin==0.4.14
 pytz==2022.1
 pywin32-ctypes==0.2.0
 regex==2022.7.9
